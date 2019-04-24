@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/video-player@^4.20.0",
+  "_id": "@ionic-native/video-player@4.20.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OCfCw7MLMA3yHbjo4+U4w1eojKFiJ5qga/igtvDn65yhWIZ0YWwI5H9pv4Az5GlEmJKj8R2v1ErMBtTVxtAatw==",
+  "_location": "/@ionic-native/video-player",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@ionic-native/video-player@^4.20.0",
+    "name": "@ionic-native/video-player",
+    "escapedName": "@ionic-native%2fvideo-player",
+    "scope": "@ionic-native",
+    "rawSpec": "^4.20.0",
+    "saveSpec": null,
+    "fetchSpec": "^4.20.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/video-player/-/video-player-4.20.0.tgz",
+  "_shasum": "2f36ef2818d1f59ec9294b3d38cb2cf80b1ff0cb",
+  "_spec": "@ionic-native/video-player@^4.20.0",
+  "_where": "/Users/kaiquecruz/Documents/PROJETOS/Click Acai/clickacai",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/video-player",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.20.0"
+}
