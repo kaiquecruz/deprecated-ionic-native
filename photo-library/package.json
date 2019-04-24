@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/photo-library",
+  "_id": "@ionic-native/photo-library@4.19.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Ld0ogDvSjyIw0/beuAoi4oDk8e+e8G01aWJyuJTj0oZSWYHJLe1vDU5r1Wo4/aGCHXWvXvCIGhZtZdSJK0MUZQ==",
+  "_location": "/@ionic-native/photo-library",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/photo-library",
+    "name": "@ionic-native/photo-library",
+    "escapedName": "@ionic-native%2fphoto-library",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/photo-library/-/photo-library-4.19.0.tgz",
+  "_shasum": "cb8adeaac2e8a0394acedc7bafe6d77ca36fdd16",
+  "_spec": "@ionic-native/photo-library",
+  "_where": "/Users/kaiquecruz/Documents/PROJETOS/Fertecnica/fertecnica",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/photo-library",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.19.0"
+}

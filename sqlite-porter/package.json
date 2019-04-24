@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/sqlite-porter",
+  "_id": "@ionic-native/sqlite-porter@4.17.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lwqbaIVCi/Rj886aFBHTT+Pm4Aqwr9iX6U99AsRKxNnbfQvVcklunmPgxaL+CuzsAu0qyKGcCkCc9xQ8dXLU0g==",
+  "_location": "/@ionic-native/sqlite-porter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/sqlite-porter",
+    "name": "@ionic-native/sqlite-porter",
+    "escapedName": "@ionic-native%2fsqlite-porter",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/sqlite-porter/-/sqlite-porter-4.17.0.tgz",
+  "_shasum": "a3d13e72015f0bd779dcdbbddf43bf36eda6e09b",
+  "_spec": "@ionic-native/sqlite-porter",
+  "_where": "/Users/kaiquecruz/Documents/PROJETOS/Fertecnica/fertecnica",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/sqlite-porter",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.17.0"
+}
